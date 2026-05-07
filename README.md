@@ -67,6 +67,14 @@ title="Spring"
 width="30px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+<img
+aling="left"
+alt="Git"
+title="Git"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+          
           
 
 
