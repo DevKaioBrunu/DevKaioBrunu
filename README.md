@@ -4,18 +4,12 @@ Sou Acadêmico de Análise e Desenvolvimento de Sistemas (UNIFOR) e Desenvolvedo
 
 Com uma trajetória de 7 anos na Psicologia Clínica, trago para a tecnologia uma visão humanizada e habilidades avançadas em comunicação assertiva, resolução de problemas e escuta analítica — fundamentais para a criação de soluções centradas no usuário e colaboração em equipes multidisciplinares.
 
-🚀 Foco atual: Desenvolvimento Full Stack com Node.js, React e TypeScript.
+🚀 Foco atual: Desenvolvimento Front-End com JavaScript, Node.js, React.
 
-🏥 Especialidade: Saúde Digital e Interoperabilidade de Sistemas.
-
-🏆 Excelência: Graduado em Psicologia com IRA 9,1 e premiado como Top Student.
+🏆 Excelência: Graduado em Gestão da Tecnologia da Informação.
 
 ## 🌐 Socials:
-
-# 💻 Tech Stack:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaio-bruno-01b1b7270/) [![Dio_profile](https://img.shields.io/badge/Dio_Profile-%230077B5.svg?=linkedin&logoColor=fff)](https://web.dio.me/users/estudok410?tab=achievements) 
-
-
 
 # 💻 Tech Stack:
 
