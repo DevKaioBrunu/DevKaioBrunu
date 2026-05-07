@@ -1,8 +1,6 @@
 # 👨🏽‍💻 About Me:
 
-Sou Acadêmico de Análise e Desenvolvimento de Sistemas (UNIFOR) e Desenvolvedor Full Stack JavaScript. Atualmente, integro o programa PET-Saúde Digital (Governo Federal / UNIFOR) no Eixo de Soluções Tecnológicas, onde aplico engenharia de requisitos e desenvolvimento de software para a modernização da saúde pública.
-
-Com uma trajetória de 7 anos na Psicologia Clínica, trago para a tecnologia uma visão humanizada e habilidades avançadas em comunicação assertiva, resolução de problemas e escuta analítica — fundamentais para a criação de soluções centradas no usuário e colaboração em equipes multidisciplinares.
+Sou Acadêmico de Análise e Desenvolvimento de Sistemas (UNIFOR) e Desenvolvedor Front-End. Atualmente, integro o programa PET-Saúde Digital (Governo Federal / UNIFOR) no Eixo de Soluções Tecnológicas, onde aplico engenharia de requisitos e desenvolvimento de software para a modernização da saúde pública.
 
 💻 Foco atual: Desenvolvimento Front-End com JavaScript, Node.js, React.
 
