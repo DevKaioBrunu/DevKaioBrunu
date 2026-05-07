@@ -43,6 +43,13 @@ style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
 <img
 aling="left"
+alt="Tailwind CSS"
+title="Tailwind CSS"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img
+aling="left"
 alt="VITE"
 title="VITE"
 width="30px"
@@ -55,6 +62,13 @@ title="Node.js"
 width="30px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+<img
+aling="left"
+alt="Figma"
+title="Figma"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />          
 <img
 aling="left"
 alt="Java"
