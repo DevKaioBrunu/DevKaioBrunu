@@ -1,16 +1,31 @@
-## Hi there 👋
+# 💫 About Me:
 
-<!--
-**DevKaioBrunu/DevKaioBrunu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Acadêmico de Análise e Desenvolvimento de Sistemas (UNIFOR) e Desenvolvedor Full Stack JavaScript. Atualmente, integro o programa PET-Saúde Digital (Governo Federal / UNIFOR) no Eixo de Soluções Tecnológicas, onde aplico engenharia de requisitos e desenvolvimento de software para a modernização da saúde pública.
 
-Here are some ideas to get you started:
+Com uma trajetória de 7 anos na Psicologia Clínica, trago para a tecnologia uma visão humanizada e habilidades avançadas em comunicação assertiva, resolução de problemas e escuta analítica — fundamentais para a criação de soluções centradas no usuário e colaboração em equipes multidisciplinares.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Foco atual: Desenvolvimento Full Stack com Node.js, React e TypeScript.
+
+🏥 Especialidade: Saúde Digital e Interoperabilidade de Sistemas.
+
+🏆 Excelência: Graduado em Psicologia com IRA 9,1 e premiado como Top Student.
+
+## 🌐 Socials:
+
+# 💻 Tech Stack:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaio-bruno-01b1b7270/) [![Dio_profile](https://img.shields.io/badge/Dio_Profile-%230077B5.svg?=linkedin&logoColor=fff)](https://web.dio.me/users/estudok410?tab=achievements) 
+
+
+
+# 💻 Tech Stack:
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
