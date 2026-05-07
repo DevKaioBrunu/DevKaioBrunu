@@ -7,7 +7,9 @@ Sou Acadêmico de Análise e Desenvolvimento de Sistemas (UNIFOR) e Desenvolvedo
 🏆 Formação: Graduado em Gestão da Tecnologia da Informação.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaio-bruno-01b1b7270/) [![Dio_profile](https://img.shields.io/badge/Dio_Profile-%230077B5.svg?=linkedin&logoColor=fff)](https://web.dio.me/users/estudok410?tab=achievements) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaio-bruno-01b1b7270/) 
+[![Dio_profile](https://img.shields.io/badge/Dio_Profile-%230077B5.svg?=linkedin&logoColor=fff)](https://web.dio.me/users/estudok410?tab=achievements) 
+[![Portfólio](https://img.shields.io/badge/Portfólio-%230077B5.svg?=linkedin&logoColor=fff)](https://portifolio-dev-kaio-bruno.vercel.app/) 
 
 # 💻 Tech Stack:
 
