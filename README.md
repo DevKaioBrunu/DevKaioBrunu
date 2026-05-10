@@ -1,102 +1,18 @@
-# 👨🏽‍💻 About Me:
+# � Sobre mim
 
-Sou Acadêmico de Análise e Desenvolvimento de Sistemas (UNIFOR) e Desenvolvedor Front-End. Atualmente, integro o programa PET-Saúde Digital (Governo Federal / UNIFOR) no Eixo de Soluções Tecnológicas, onde aplico engenharia de requisitos e desenvolvimento de software para a modernização da saúde pública.
+Acadêmico de Análise e Desenvolvimento de Sistemas (UNIFOR) | Desenvolvedor Front-End
 
-💻 Foco atual: Desenvolvimento Front-End com JavaScript, Node.js, React.
+Sou desenvolvedor Front-End com formação em Gestão da Tecnologia da Informação. Atualmente integro o programa PET-Saúde Digital (Governo Federal / UNIFOR) no Eixo de Soluções Tecnológicas, aplicando engenharia de requisitos e desenvolvimento de software para modernizar a saúde pública.
 
-🏆 Formação: Graduado em Gestão da Tecnologia da Informação.
+🎯 **Foco Atual:** Desenvolvimento Front-End com JavaScript, React, Node.js  
 
-## 🌐 Socials:
+## 🔗 Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaio-bruno-01b1b7270/) 
-[![Dio_profile](https://img.shields.io/badge/Dio_Profile-%230077B5.svg?=linkedin&logoColor=fff)](https://web.dio.me/users/estudok410?tab=achievements) 
-[![Portfólio](https://img.shields.io/badge/Portfólio-%230077B5.svg?=linkedin&logoColor=fff)](https://portifolio-dev-kaio-bruno.vercel.app/) 
+[![DIO](https://img.shields.io/badge/DIO-%23122e62.svg?logo=diaspora&logoColor=fff)](https://web.dio.me/users/estudok410?tab=achievements) 
+[![Portfólio](https://img.shields.io/badge/Portfólio-%23000000.svg?logo=github&logoColor=white)](https://portifolio-dev-kaio-bruno.vercel.app/) 
 
-# 💻 Tech Stack:
+## ⚙️ Tech Stack
 
-<img
-aling="left"
-alt="JavaScript"
-title="JavaScript"
-width="30px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-<img
-aling="left"
-alt="React"
-title="React"
-width="30px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img
-aling="left"
-alt="HTML"
-title="HTML"
-width="30px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
-<img
-aling="left"
-alt="CSS3"
-title="CSS3"
-width="30px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
-<img
-aling="left"
-alt="Tailwind CSS"
-title="Tailwind CSS"
-width="30px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img
-aling="left"
-alt="VITE"
-title="VITE"
-width="30px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
-<img
-aling="left"
-alt="Node.js"
-title="Node.js"
-width="30px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-<img
-aling="left"
-alt="Figma"
-title="Figma"
-width="30px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />          
-<img
-aling="left"
-alt="Java"
-title="Java"
-width="30px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img
-aling="left"
-alt="Spring"
-title="Spring"
-width="30px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-<img
-aling="left"
-alt="Git"
-title="Git"
-width="30px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-          
-          
+<img align="left" alt="JavaScript" title="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" /><img align="left" alt="React" title="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /><img align="left" alt="HTML5" title="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" /><img align="left" alt="CSS3" title="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" /><img align="left" alt="Tailwind" title="Tailwind CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /><img align="left" alt="Vite" title="Vite" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" /><img align="left" alt="Node.js" title="Node.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /><img align="left" alt="Figma" title="Figma" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /><img align="left" alt="Java" title="Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /><img align="left" alt="Spring" title="Spring" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /><img align="left" alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
-
-          
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br clear="both" />
