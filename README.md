@@ -1,10 +1,10 @@
 # 👾 Sobre mim
 
-Acadêmico de Análise e Desenvolvimento de Sistemas (UNIFOR) | Desenvolvedor Front-End
+Acadêmico de Análise e Desenvolvimento de Sistemas (UNIFOR) | Desenvolvedor Full Stack
 
-Sou desenvolvedor Front-End com formação em Gestão da Tecnologia da Informação. Atualmente integro o programa PET-Saúde Digital (Governo Federal / UNIFOR) no Eixo de Soluções Tecnológicas, aplicando engenharia de requisitos e desenvolvimento de software para modernizar a saúde pública.
+Sou desenvolvedor Full Stack com formação em Gestão da Tecnologia da Informação. Atualmente integro o programa PET-Saúde Digital (Governo Federal / UNIFOR) no Eixo de Soluções Tecnológicas, aplicando engenharia de requisitos e desenvolvimento de software para modernizar a saúde pública.
 
-🎯 **Foco Atual:** Desenvolvimento Front-End com JavaScript, React, Node.js  
+🎯 **Foco Atual:** Desenvolvimento Full-Stack 
 
 ## 🔗 Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaio-bruno-01b1b7270/) 
